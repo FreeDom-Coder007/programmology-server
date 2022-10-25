@@ -17,3 +17,5 @@ app.get('/courses', (req,res) => {
 app.listen(port, () => {
     console.log('Programmology Srever in running on:', port)
 })
+
+module.exports = app;
