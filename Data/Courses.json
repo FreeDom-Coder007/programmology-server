@@ -2,37 +2,37 @@
    {
      "id": 1,
      "title": "Frontend With React & Redux",
-     "image": "/Data/Images/React-redux.png",
+     "image": "https://i.ibb.co/9w3vwSc/React-redux.png",
      "info": "industry leading frontend building technology React & Redux kick start your carier with frontend development" 
    }, 
    {
      "id": 2,
      "title": "BackEnd With Express & MongoDB",
-     "image": "./Images/Node & MongoDB.png",
+     "image": "https://i.ibb.co/StnRWgm/Node-and-Mongo-DB.png",
      "info": "industry leading BackEnd building technology Express & MongoDB kick start your carier with BackEnd development" 
    }, 
    {
      "id": 3,
      "title": "Learn Programming & Problem Solving With C",
-     "image": "./Images/C language.jpg",
+     "image": "https://i.ibb.co/X8nQvjF/C-language.jpg",
      "info": "The Mother OF Programming language is C best for understanding core programming concepts & problem solving" 
    }, 
    {
      "id": 4,
      "title": "Machine Learning",
-     "image": "./Images/machine learing.jpg",
+     "image": "https://i.ibb.co/zGg12v0/machine-learing.jpg",
      "info": "To Understand the machine in to machanical way" 
    },   
    {
      "id": 5,
      "title": "Learn Unity 3D for Game development",
-     "image": "./Images/unity 3D.png",
+     "image": "https://i.ibb.co/LQmJYf1/unity-3D.png",
      "info": "Build your carier in gaming learn game development with Unity 3D" 
    },   
    {
      "id": 6,
      "title": "Learn VFX with After Effect",
-     "image": "./Images/After Effectsjpg.jpg",
+     "image": "https://i.ibb.co/HB3QpXJ/After-Effectsjpg.jpg",
      "info": "Learn VFX With Indutry Leading techlonology/Softwre Adobe After Effect" 
    }   
 ]
